@@ -1,3 +1,7 @@
 [submodule "themes/aether"]
 	path = themes/aether
 	url = https://github.com/josephhutch/aether.git
+[submodule "jmcz-git.github.io"]
+	path = jmcz-git.github.io
+	url = git@github.com:jmcz-git/jmcz-git.github.io
+	branch = master
