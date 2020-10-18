@@ -1,0 +1,7 @@
+baseURL = "jmcz-git.github.io"
+languageCode = "en-us"
+title = "jmcz's page"
+theme = "aether"
+
+[params]
+	bgimg = "/bgpattern.png"
