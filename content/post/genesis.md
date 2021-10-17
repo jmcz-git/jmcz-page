@@ -1,19 +1,13 @@
----
-title: "Genesis"
-date: 2020-10-16T15:53:41-06:00
-description: "Hello and welcome."
-categories: ["welcome"]
-toc: false
-dropCap: true
-displayInMenu: false
-displayInList: true
-draft: false
-resources:
-- name: featuredImage
-  src: ""
-  params:
-    description: "hello and welcome"
----
++++
+author = "jmcz"
+title = "Genesis"
+date = "2020-10-16T15:53:41-06:00"
+description = "Hello and welcome."
+draft = false
++++
+
+A journey of a thousand miles begins with a single step.
+<!--more-->
 
 # Welcome aboard!
 

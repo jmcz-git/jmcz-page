@@ -4,13 +4,13 @@ set -e
 
 printf "Deploying changes to GitHub...\n"
 
-hugo -t aether
+hugo -t risotto
 
 cd public
 
 git add .
 
-msg="site rebuilt: $(date)"
+msg="rebuilt using deploy script [$(date)]"
 
 git commit -m "$msg"
 

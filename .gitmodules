@@ -6,3 +6,6 @@
 	path = public
 	url = https://github.com/jmcz-git/jmcz-git.github.io
 	branch = master
+[submodule "themes/risotto"]
+	path = themes/risotto
+	url = https://github.com/joeroe/risotto.git
