@@ -2,10 +2,6 @@
 	path = themes/aether
 	url = https://github.com/josephhutch/aether.git
 
-[submodule "public"]
-	path = public
-	url = https://github.com/jmcz-git/jmcz-git.github.io
-	branch = master
 [submodule "themes/risotto"]
 	path = themes/risotto
 	url = https://github.com/joeroe/risotto.git
