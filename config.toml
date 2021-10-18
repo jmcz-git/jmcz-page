@@ -1,4 +1,5 @@
-baseURL = "jmcz.page"
+baseURL = "https://jmcz-git.github.io/jmcz-page/"
+canonifyurls = true
 theme = "risotto"
 title = "jmcz's page"
 author = "jmcz"
@@ -37,7 +38,7 @@ url = "https://github.com/jmcz-git/"
   [[menu.main]]
     identifier = "about"
     name = "About"
-    url = "/about/"
+    url = "about/"
     weight = 10
 
 [taxonomies]
