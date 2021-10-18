@@ -1,4 +1,4 @@
-baseURL = "jmcz-git.github.io"
+baseURL = "https://jmcz-git.github.io/"
 theme = "risotto"
 title = "jmcz's page"
 author = "jmcz"
