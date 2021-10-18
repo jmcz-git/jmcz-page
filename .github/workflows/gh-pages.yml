@@ -22,7 +22,7 @@ jobs:
           # extended: true
 
       - name: Build
-        run: hugo --minify --themesDir="../.." -t risotto
+        run: hugo --minify -t risotto
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
